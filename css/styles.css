@@ -1,0 +1,19 @@
+body
+
+    {
+        background-color: palevioletred;
+    }
+    h1
+    {
+        font-family: 'Andika New Basic', sans-serif;
+        font-size: 30px;
+        color:rgb(5, 5, 5);
+    }
+
+    h2
+    {
+        font-family: 'Sniglet', cursive;
+        font-size: 20px;
+        color:white;
+
+    }
